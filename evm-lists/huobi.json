@@ -1,0 +1,13 @@
+{
+  "name": "Bloomium Huobi List",
+  "timestamp": "2021-29-06",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["bloomium", "huobi"],
+  "tokens": []
+}
