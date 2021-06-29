@@ -23,8 +23,8 @@ the specification. The Bloomium community invites you to add your token to our t
         "name": "Ocean Protocol",
         "symbol": "OCEAN",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Bloomium/bloomium-token-lists/main/evm-logos/avalanche/0x0057371Cd534577b6040E140654DE0958116Cf3A/logo.png"
-    }
+        "logoURI": "https://raw.githubusercontent.com/Bloomium/bloomium-token-lists/master/evm-logos/avalanche/0x0057371Cd534577b6040E140654DE0958116Cf3A/logo.png"
+    } 
     ```
 3. Update the `timestamp` field to the current timestamp.
 4. Update the `version` field to adhere to semantic versioning:
